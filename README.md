@@ -64,6 +64,6 @@
 
 
 <br>
-Credito: [Pablo Castillo](https://github.com/PabloCastillo10)
+
 
 Edición: 8/08/2025
