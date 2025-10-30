@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 Actualmente me encuentro en proceso de iniciar mis prácticas profesionales tras haber finalizado mis estudios como **Perito en Informática**.
+- 🌱 Actualmente me encuentro en finalización de mis prácticas profesionales tras haber finalizado mis estudios como **Perito en Informática**.
 
 - 💻 Me apasiona el desarrollo web y estoy constantemente aprendiendo nuevos lenguajes de programación y tecnologías.
 
